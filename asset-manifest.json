@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/myfirstreact/static/css/main.f176b5af.css",
+    "main.js": "/myfirstreact/static/js/main.1e314118.js",
+    "index.html": "/myfirstreact/index.html",
+    "static/media/search.svg": "/myfirstreact/static/media/search.b416605642fcb3f2447edc96c1a80e05.svg",
+    "main.f176b5af.css.map": "/myfirstreact/static/css/main.f176b5af.css.map",
+    "main.1e314118.js.map": "/myfirstreact/static/js/main.1e314118.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f176b5af.css",
+    "static/js/main.1e314118.js"
+  ]
+}
